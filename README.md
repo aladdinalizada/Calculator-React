@@ -1,6 +1,6 @@
 # Calculator-React
 
-[Image of Calculator](./public/calculator.png)
+<img title="cover-photo" alt="" src="./public/calculator.png" >
 
 ## Description
 
